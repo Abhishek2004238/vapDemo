@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.navbar {
+    text-align: center;
+   font-size: larger;
+    background: rgb(42, 83, 79, 0.9);
+   
+    color: black;
+    border-color: black;
+
+
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+
+
+.navbar  a {
+     float: right;  
+    background: transparent;
+    width:150px;
+    height: 35Px; 
+    border: none;
+    outline: none; 
+    font-size: 25px;
+    text-align: center ;
+    color: aliceblue;
+    padding: 20px ,45px, 20px, 20px;
+    
+}
+
+
+.inputbox input{
+    float: center;
+    
+    background: transparent;
+    width:400px;
+    height: 30px; 
+    border: none;
+    border-radius: 40px;
+    outline: none;
+    border: 2px solid rgb(255, 255, 255 ,2);
+    font-size: 25px;
+    text-align: center ;
+    color: aliceblue;
+    padding: 20px ,45px, 20px, 20px;
+
+ }
+.inputbox ::placeholder{
+    color: gray;}
+.inputbox i{
+    position: absolute;
+    right: 710px;
+    top: 5px;
+    transform: translate(-50%);
+    font-size: 25px;
+}
+.input-box input{
+    background-color: transparent;
+    position:absolute ;
+    font-size: 17px;
+}
+.h1{
+    text-align: center;
+    
+
+}
